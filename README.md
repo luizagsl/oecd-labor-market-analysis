@@ -72,4 +72,4 @@ All datasets downloaded directly from the [OECD Data Explorer](https://data-expl
 
 ## Tools & Skills
 
-`Python` `pandas` `Tableau Public` `SDMX` `FIXED LOD expressions` `Data Quality Flagging` `Dashboard Design`
+`Python` `pandas` `Tableau Public` `Dashboard Design`
