@@ -1,0 +1,348 @@
+structure_name,country_code,country,measure,unit_of_measure,sex,age,year,population_value,observation_status,is_estimated
+Historical population data,EST,Estonia,Population,Persons,Total,From 15 to 64 years,2016,850.864,Normal value,False
+Historical population data,EST,Estonia,Population,Persons,Total,From 15 to 64 years,2017,846.537,Normal value,False
+Historical population data,EST,Estonia,Population,Persons,Total,From 15 to 64 years,2018,845.537,Normal value,False
+Historical population data,EST,Estonia,Population,Persons,Total,From 15 to 64 years,2019,844.767,Normal value,False
+Historical population data,EST,Estonia,Population,Persons,Total,From 15 to 64 years,2020,842.472,Normal value,False
+Historical population data,EST,Estonia,Population,Persons,Total,From 15 to 64 years,2021,841.403,Normal value,False
+Historical population data,EST,Estonia,Population,Persons,Total,From 15 to 64 years,2022,853.681,Normal value,False
+Historical population data,KOR,Korea,Population,Persons,Total,From 15 to 64 years,2016,37596.157,Normal value,False
+Historical population data,KOR,Korea,Population,Persons,Total,From 15 to 64 years,2017,37571.568,Normal value,False
+Historical population data,KOR,Korea,Population,Persons,Total,From 15 to 64 years,2018,37623.919,Normal value,False
+Historical population data,KOR,Korea,Population,Persons,Total,From 15 to 64 years,2019,37627.748,Normal value,False
+Historical population data,KOR,Korea,Population,Persons,Total,From 15 to 64 years,2020,37378.502,Normal value,False
+Historical population data,LVA,Latvia,Population,Persons,Total,From 15 to 64 years,2016,1270.365,Normal value,False
+Historical population data,LVA,Latvia,Population,Persons,Total,From 15 to 64 years,2017,1249.424,Normal value,False
+Historical population data,LVA,Latvia,Population,Persons,Total,From 15 to 64 years,2018,1233.068,Normal value,False
+Historical population data,LVA,Latvia,Population,Persons,Total,From 15 to 64 years,2019,1218.495,Normal value,False
+Historical population data,LVA,Latvia,Population,Persons,Total,From 15 to 64 years,2020,1203.809,Normal value,False
+Historical population data,LVA,Latvia,Population,Persons,Total,From 15 to 64 years,2021,1190.344,Normal value,False
+Historical population data,LVA,Latvia,Population,Persons,Total,From 15 to 64 years,2022,1185.872,Normal value,False
+Historical population data,LTU,Lithuania,Population,Persons,Total,From 15 to 64 years,2016,1895.933,Normal value,False
+Historical population data,LTU,Lithuania,Population,Persons,Total,From 15 to 64 years,2017,1855.626,Normal value,False
+Historical population data,LTU,Lithuania,Population,Persons,Total,From 15 to 64 years,2018,1827.811,Normal value,False
+Historical population data,LTU,Lithuania,Population,Persons,Total,From 15 to 64 years,2019,1817.663,Normal value,False
+Historical population data,LTU,Lithuania,Population,Persons,Total,From 15 to 64 years,2020,1815.817,Normal value,False
+Historical population data,LTU,Lithuania,Population,Persons,Total,From 15 to 64 years,2021,1830.867,Normal value,False
+Historical population data,LUX,Luxembourg,Population,Persons,Total,From 15 to 64 years,2016,405.01,Normal value,False
+Historical population data,LUX,Luxembourg,Population,Persons,Total,From 15 to 64 years,2017,414.644,Normal value,False
+Historical population data,LUX,Luxembourg,Population,Persons,Total,From 15 to 64 years,2018,422.816,Normal value,False
+Historical population data,LUX,Luxembourg,Population,Persons,Total,From 15 to 64 years,2019,431.102,Normal value,False
+Historical population data,LUX,Luxembourg,Population,Persons,Total,From 15 to 64 years,2020,437.918,Normal value,False
+Historical population data,LUX,Luxembourg,Population,Persons,Total,From 15 to 64 years,2021,444.062,Normal value,False
+Historical population data,LUX,Luxembourg,Population,Persons,Total,From 15 to 64 years,2022,452.651,Normal value,False
+Historical population data,POL,Poland,Population,Persons,Total,From 15 to 64 years,2016,26480.111,Normal value,False
+Historical population data,POL,Poland,Population,Persons,Total,From 15 to 64 years,2017,26221.04,Normal value,False
+Historical population data,POL,Poland,Population,Persons,Total,From 15 to 64 years,2018,25949.3,Normal value,False
+Historical population data,POL,Poland,Population,Persons,Total,From 15 to 64 years,2019,25678.468,Normal value,False
+Historical population data,POL,Poland,Population,Persons,Total,From 15 to 64 years,2022,24709.7,Normal value,False
+Historical population data,TUR,Türkiye,Population,Persons,Total,From 15 to 64 years,2016,53798.594,Normal value,False
+Historical population data,TUR,Türkiye,Population,Persons,Total,From 15 to 64 years,2017,54559.624,Normal value,False
+Historical population data,TUR,Türkiye,Population,Persons,Total,From 15 to 64 years,2018,55257.504,Normal value,False
+Historical population data,TUR,Türkiye,Population,Persons,Total,From 15 to 64 years,2019,56012.641,Normal value,False
+Historical population data,TUR,Türkiye,Population,Persons,Total,From 15 to 64 years,2020,56492.253,Normal value,False
+Historical population data,TUR,Türkiye,Population,Persons,Total,From 15 to 64 years,2021,57025.881,Normal value,False
+Historical population data,TUR,Türkiye,Population,Persons,Total,From 15 to 64 years,2022,57775.983,Normal value,False
+Historical population data,IRL,Ireland,Population,Persons,Total,From 15 to 64 years,2016,3104.266,Normal value,False
+Historical population data,AUS,Australia,Population,Persons,Total,From 15 to 64 years,2016,15946.059,Normal value,False
+Historical population data,NZL,New Zealand,Population,Persons,Total,From 15 to 64 years,2016,3097.52,Normal value,False
+Historical population data,NZL,New Zealand,Population,Persons,Total,From 15 to 64 years,2017,3162.93,Normal value,False
+Historical population data,NZL,New Zealand,Population,Persons,Total,From 15 to 64 years,2018,3219.23,Normal value,False
+Historical population data,DEU,Germany,Population,Persons,Total,From 15 to 64 years,2016,53978.882,Normal value,False
+Historical population data,DEU,Germany,Population,Persons,Total,From 15 to 64 years,2017,53937.129,Normal value,False
+Historical population data,DEU,Germany,Population,Persons,Total,From 15 to 64 years,2018,53877.877,Normal value,False
+Historical population data,DEU,Germany,Population,Persons,Total,From 15 to 64 years,2019,53764.817,Normal value,False
+Historical population data,USA,United States,Population,Persons,Total,From 15 to 64 years,2016,212841.982,Normal value,False
+Historical population data,USA,United States,Population,Persons,Total,From 15 to 64 years,2017,213355.711,Normal value,False
+Historical population data,USA,United States,Population,Persons,Total,From 15 to 64 years,2018,213604.267,Normal value,False
+Historical population data,USA,United States,Population,Persons,Total,From 15 to 64 years,2019,213680.073,Normal value,False
+Historical population data,ISR,Israel,Population,Persons,Total,From 15 to 64 years,2016,5171.747,Normal value,False
+Historical population data,ISR,Israel,Population,Persons,Total,From 15 to 64 years,2017,5252.161,Normal value,False
+Historical population data,ISR,Israel,Population,Persons,Total,From 15 to 64 years,2018,5338.336,Normal value,False
+Historical population data,ISR,Israel,Population,Persons,Total,From 15 to 64 years,2019,5430.158,Normal value,False
+Historical population data,FRA,France,Population,Persons,Total,From 15 to 64 years,2016,41721.962,Normal value,False
+Historical population data,FRA,France,Population,Persons,Total,From 15 to 64 years,2017,41665.47,Normal value,False
+Historical population data,FRA,France,Population,Persons,Total,From 15 to 64 years,2018,41671.167,Normal value,False
+Historical population data,FRA,France,Population,Persons,Total,From 15 to 64 years,2019,41677.958,Normal value,False
+Historical population data,CHE,Switzerland,Population,Persons,Total,From 15 to 64 years,2016,5618.39,Normal value,False
+Historical population data,CHE,Switzerland,Population,Persons,Total,From 15 to 64 years,2017,5653.105,Normal value,False
+Historical population data,CHE,Switzerland,Population,Persons,Total,From 15 to 64 years,2018,5674.095,Normal value,False
+Historical population data,CHE,Switzerland,Population,Persons,Total,From 15 to 64 years,2019,5694.398,Normal value,False
+Historical population data,CHE,Switzerland,Population,Persons,Total,From 15 to 64 years,2020,5719.839,Normal value,False
+Historical population data,CHE,Switzerland,Population,Persons,Total,From 15 to 64 years,2021,5746.095,Normal value,False
+Historical population data,PRT,Portugal,Population,Persons,Total,From 15 to 64 years,2016,6713.741,Normal value,False
+Historical population data,PRT,Portugal,Population,Persons,Total,From 15 to 64 years,2017,6674.545,Normal value,False
+Historical population data,PRT,Portugal,Population,Persons,Total,From 15 to 64 years,2018,6644.314,Normal value,False
+Historical population data,PRT,Portugal,Population,Persons,Total,From 15 to 64 years,2019,6627.668,Normal value,False
+Historical population data,PRT,Portugal,Population,Persons,Total,From 15 to 64 years,2020,6616.292,Normal value,False
+Historical population data,PRT,Portugal,Population,Persons,Total,From 15 to 64 years,2021,6604.818,Normal value,False
+Historical population data,NLD,Netherlands,Population,Persons,Total,From 15 to 64 years,2016,11117.063,Normal value,False
+Historical population data,NLD,Netherlands,Population,Persons,Total,From 15 to 64 years,2017,11159.716,Normal value,False
+Historical population data,NLD,Netherlands,Population,Persons,Total,From 15 to 64 years,2018,11203.843,Normal value,False
+Historical population data,NLD,Netherlands,Population,Persons,Total,From 15 to 64 years,2019,11258.636,Normal value,False
+Historical population data,NLD,Netherlands,Population,Persons,Total,From 15 to 64 years,2020,11297.54,Normal value,False
+Historical population data,NLD,Netherlands,Population,Persons,Total,From 15 to 64 years,2021,11329.457,Normal value,False
+Historical population data,ITA,Italy,Population,Persons,Total,From 15 to 64 years,2016,38554.409,Normal value,False
+Historical population data,ITA,Italy,Population,Persons,Total,From 15 to 64 years,2017,38429.628,Normal value,False
+Historical population data,ITA,Italy,Population,Persons,Total,From 15 to 64 years,2018,38310.756,Normal value,False
+Historical population data,ITA,Italy,Population,Persons,Total,From 15 to 64 years,2019,38153.205,Normal value,False
+Historical population data,ITA,Italy,Population,Persons,Total,From 15 to 64 years,2020,37856.485,Normal value,False
+Historical population data,ITA,Italy,Population,Persons,Total,From 15 to 64 years,2021,37573.534,Normal value,False
+Historical population data,GRC,Greece,Population,Persons,Total,From 15 to 64 years,2016,6913.955,Normal value,False
+Historical population data,GRC,Greece,Population,Persons,Total,From 15 to 64 years,2017,6874.061,Normal value,False
+Historical population data,GRC,Greece,Population,Persons,Total,From 15 to 64 years,2018,6839.289,Normal value,False
+Historical population data,GRC,Greece,Population,Persons,Total,From 15 to 64 years,2019,6814.549,Normal value,False
+Historical population data,GRC,Greece,Population,Persons,Total,From 15 to 64 years,2020,6782.44,Normal value,False
+Historical population data,GRC,Greece,Population,Persons,Total,From 15 to 64 years,2021,6708.84,Normal value,False
+Historical population data,SWE,Sweden,Population,Persons,Total,From 15 to 64 years,2016,6221.974,Normal value,False
+Historical population data,SWE,Sweden,Population,Persons,Total,From 15 to 64 years,2017,6288.358,Normal value,False
+Historical population data,SWE,Sweden,Population,Persons,Total,From 15 to 64 years,2018,6347.082,Normal value,False
+Historical population data,SWE,Sweden,Population,Persons,Total,From 15 to 64 years,2019,6401.074,Normal value,False
+Historical population data,SWE,Sweden,Population,Persons,Total,From 15 to 64 years,2020,6440.403,Normal value,False
+Historical population data,SWE,Sweden,Population,Persons,Total,From 15 to 64 years,2021,6473.933,Normal value,False
+Historical population data,SWE,Sweden,Population,Persons,Total,From 15 to 64 years,2022,6519.894,Normal value,False
+Historical population data,SVN,Slovenia,Population,Persons,Total,From 15 to 64 years,2016,1371.289,Normal value,False
+Historical population data,SVN,Slovenia,Population,Persons,Total,From 15 to 64 years,2017,1360.846,Normal value,False
+Historical population data,SVN,Slovenia,Population,Persons,Total,From 15 to 64 years,2018,1350.886,Normal value,False
+Historical population data,SVN,Slovenia,Population,Persons,Total,From 15 to 64 years,2019,1355.926,Normal value,False
+Historical population data,SVN,Slovenia,Population,Persons,Total,From 15 to 64 years,2020,1353.614,Normal value,False
+Historical population data,SVN,Slovenia,Population,Persons,Total,From 15 to 64 years,2021,1348.577,Normal value,False
+Historical population data,SVN,Slovenia,Population,Persons,Total,From 15 to 64 years,2022,1342.136,Normal value,False
+Historical population data,SVK,Slovak Republic,Population,Persons,Total,From 15 to 64 years,2016,3795.364,Normal value,False
+Historical population data,SVK,Slovak Republic,Population,Persons,Total,From 15 to 64 years,2017,3764.51,Normal value,False
+Historical population data,SVK,Slovak Republic,Population,Persons,Total,From 15 to 64 years,2018,3733.312,Normal value,False
+Historical population data,SVK,Slovak Republic,Population,Persons,Total,From 15 to 64 years,2019,3703.519,Normal value,False
+Historical population data,SVK,Slovak Republic,Population,Persons,Total,From 15 to 64 years,2020,3674.22,Normal value,False
+Historical population data,SVK,Slovak Republic,Population,Persons,Total,From 15 to 64 years,2021,3634.818,Normal value,False
+Historical population data,SVK,Slovak Republic,Population,Persons,Total,From 15 to 64 years,2022,3601.615,Normal value,False
+Historical population data,NOR,Norway,Population,Persons,Total,From 15 to 64 years,2016,3435.361,Normal value,False
+Historical population data,NOR,Norway,Population,Persons,Total,From 15 to 64 years,2017,3453.023,Normal value,False
+Historical population data,NOR,Norway,Population,Persons,Total,From 15 to 64 years,2018,3467.336,Normal value,False
+Historical population data,NOR,Norway,Population,Persons,Total,From 15 to 64 years,2019,3485.022,Normal value,False
+Historical population data,NOR,Norway,Population,Persons,Total,From 15 to 64 years,2020,3499.836,Normal value,False
+Historical population data,NOR,Norway,Population,Persons,Total,From 15 to 64 years,2021,3511.921,Normal value,False
+Historical population data,NOR,Norway,Population,Persons,Total,From 15 to 64 years,2022,3540.635,Normal value,False
+Historical population data,JPN,Japan,Population,Persons,Total,From 15 to 64 years,2016,76672.916,Normal value,False
+Historical population data,JPN,Japan,Population,Persons,Total,From 15 to 64 years,2017,76190.433,Normal value,False
+Historical population data,JPN,Japan,Population,Persons,Total,From 15 to 64 years,2018,75795.908,Normal value,False
+Historical population data,JPN,Japan,Population,Persons,Total,From 15 to 64 years,2019,75541.537,Normal value,False
+Historical population data,JPN,Japan,Population,Persons,Total,From 15 to 64 years,2020,75087.865,Normal value,False
+Historical population data,JPN,Japan,Population,Persons,Total,From 15 to 64 years,2021,74503.763,Normal value,False
+Historical population data,JPN,Japan,Population,Persons,Total,From 15 to 64 years,2022,74208.164,Normal value,False
+Historical population data,FIN,Finland,Population,Persons,Total,From 15 to 64 years,2016,3463.659,Normal value,False
+Historical population data,FIN,Finland,Population,Persons,Total,From 15 to 64 years,2017,3451.264,Normal value,False
+Historical population data,FIN,Finland,Population,Persons,Total,From 15 to 64 years,2018,3437.117,Normal value,False
+Historical population data,FIN,Finland,Population,Persons,Total,From 15 to 64 years,2019,3426.913,Normal value,False
+Historical population data,FIN,Finland,Population,Persons,Total,From 15 to 64 years,2020,3419.992,Normal value,False
+Historical population data,FIN,Finland,Population,Persons,Total,From 15 to 64 years,2021,3417.206,Normal value,False
+Historical population data,FIN,Finland,Population,Persons,Total,From 15 to 64 years,2022,3423.271,Normal value,False
+Historical population data,DNK,Denmark,Population,Persons,Total,From 15 to 64 years,2016,3678.647,Normal value,False
+Historical population data,DNK,Denmark,Population,Persons,Total,From 15 to 64 years,2017,3694.468,Normal value,False
+Historical population data,DNK,Denmark,Population,Persons,Total,From 15 to 64 years,2018,3703.664,Normal value,False
+Historical population data,DNK,Denmark,Population,Persons,Total,From 15 to 64 years,2019,3712.866,Normal value,False
+Historical population data,DNK,Denmark,Population,Persons,Total,From 15 to 64 years,2020,3707.906,Normal value,False
+Historical population data,DNK,Denmark,Population,Persons,Total,From 15 to 64 years,2021,3715.943,Normal value,False
+Historical population data,DNK,Denmark,Population,Persons,Total,From 15 to 64 years,2022,3754.139,Normal value,False
+Historical population data,CZE,Czechia,Population,Persons,Total,From 15 to 64 years,2016,6969.535,Normal value,False
+Historical population data,CZE,Czechia,Population,Persons,Total,From 15 to 64 years,2017,6916.867,Normal value,False
+Historical population data,CZE,Czechia,Population,Persons,Total,From 15 to 64 years,2018,6881.729,Normal value,False
+Historical population data,CZE,Czechia,Population,Persons,Total,From 15 to 64 years,2019,6859.082,Normal value,False
+Historical population data,CZE,Czechia,Population,Persons,Total,From 15 to 64 years,2020,6839.835,Normal value,False
+Historical population data,CZE,Czechia,Population,Persons,Total,From 15 to 64 years,2021,6652.493,Normal value,False
+Historical population data,CZE,Czechia,Population,Persons,Total,From 15 to 64 years,2022,6823.882,Normal value,False
+Historical population data,COL,Colombia,Population,Persons,Total,From 15 to 64 years,2016,31366.136,Normal value,False
+Historical population data,COL,Colombia,Population,Persons,Total,From 15 to 64 years,2017,31817.819,Normal value,False
+Historical population data,COL,Colombia,Population,Persons,Total,From 15 to 64 years,2018,32414.92,Normal value,False
+Historical population data,COL,Colombia,Population,Persons,Total,From 15 to 64 years,2019,33206.757,Normal value,False
+Historical population data,COL,Colombia,Population,Persons,Total,From 15 to 64 years,2020,33989.272,Normal value,False
+Historical population data,COL,Colombia,Population,Persons,Total,From 15 to 64 years,2021,34532.977,Normal value,False
+Historical population data,COL,Colombia,Population,Persons,Total,From 15 to 64 years,2022,34974.647,Normal value,False
+Historical population data,CHL,Chile,Population,Persons,Total,From 15 to 64 years,2016,12488.678,Normal value,False
+Historical population data,CHL,Chile,Population,Persons,Total,From 15 to 64 years,2017,12658.694,Normal value,False
+Historical population data,CHL,Chile,Population,Persons,Total,From 15 to 64 years,2018,12890.07,Normal value,False
+Historical population data,CHL,Chile,Population,Persons,Total,From 15 to 64 years,2019,13132.822,Normal value,False
+Historical population data,CHL,Chile,Population,Persons,Total,From 15 to 64 years,2020,13361.656,Normal value,False
+Historical population data,CHL,Chile,Population,Persons,Total,From 15 to 64 years,2021,13473.999,Normal value,False
+Historical population data,CHL,Chile,Population,Persons,Total,From 15 to 64 years,2022,13528.576,Normal value,False
+Historical population data,BEL,Belgium,Population,Persons,Total,From 15 to 64 years,2016,7300.061,Normal value,False
+Historical population data,BEL,Belgium,Population,Persons,Total,From 15 to 64 years,2017,7312.259,Normal value,False
+Historical population data,BEL,Belgium,Population,Persons,Total,From 15 to 64 years,2018,7325.392,Normal value,False
+Historical population data,BEL,Belgium,Population,Persons,Total,From 15 to 64 years,2019,7342.747,Normal value,False
+Historical population data,BEL,Belgium,Population,Persons,Total,From 15 to 64 years,2020,7357.957,Normal value,False
+Historical population data,BEL,Belgium,Population,Persons,Total,From 15 to 64 years,2021,7376.439,Normal value,False
+Historical population data,BEL,Belgium,Population,Persons,Total,From 15 to 64 years,2022,7422.214,Normal value,False
+Historical population data,MEX,Mexico,Population,Persons,Total,From 15 to 64 years,2016,80986.362,Normal value,False
+Historical population data,MEX,Mexico,Population,Persons,Total,From 15 to 64 years,2017,82127.176,Normal value,False
+Historical population data,MEX,Mexico,Population,Persons,Total,From 15 to 64 years,2018,83247.972,Normal value,False
+Historical population data,MEX,Mexico,Population,Persons,Total,From 15 to 64 years,2019,84329.698,Normal value,False
+Historical population data,MEX,Mexico,Population,Persons,Total,From 15 to 64 years,2025,89940.444,Normal value,False
+Historical population data,CAN,Canada,Population,Persons,Total,From 15 to 64 years,2016,24323.11,Normal value,False
+Historical population data,CAN,Canada,Population,Persons,Total,From 15 to 64 years,2017,24491.92,Normal value,False
+Historical population data,CAN,Canada,Population,Persons,Total,From 15 to 64 years,2018,24737.598,Normal value,False
+Historical population data,CAN,Canada,Population,Persons,Total,From 15 to 64 years,2019,24992.326,Normal value,False
+Historical population data,AUT,Austria,Population,Persons,Total,From 15 to 64 years,2016,5866.334,Normal value,False
+Historical population data,AUT,Austria,Population,Persons,Total,From 15 to 64 years,2017,5887.058,Normal value,False
+Historical population data,AUT,Austria,Population,Persons,Total,From 15 to 64 years,2018,5900.047,Normal value,False
+Historical population data,AUT,Austria,Population,Persons,Total,From 15 to 64 years,2019,5911.025,Normal value,False
+Historical population data,CHL,Chile,Population,Persons,Total,From 15 to 64 years,2025,13660.93,Normal value,False
+Historical population data,COL,Colombia,Population,Persons,Total,From 15 to 64 years,2025,35984.581,Normal value,False
+Historical population data,KOR,Korea,Population,Persons,Total,From 15 to 64 years,2025,35912.191,Normal value,False
+Historical population data,HUN,Hungary,Population,Persons,Total,From 15 to 64 years,2016,6552.126,Normal value,False
+Historical population data,ISL,Iceland,Population,Persons,Total,From 15 to 64 years,2016,216.518,Normal value,False
+Historical population data,ESP,Spain,Population,Persons,Total,From 15 to 64 years,2016,30733.068,Normal value,False
+Historical population data,GBR,United Kingdom,Population,Persons,Total,From 15 to 64 years,2016,42288.79,Normal value,False
+Historical population data,AUS,Australia,Population,Persons,Total,From 15 to 64 years,2018,16369.321,Normal value,False
+Historical population data,HUN,Hungary,Population,Persons,Total,From 15 to 64 years,2018,6451.943,Normal value,False
+Historical population data,ISL,Iceland,Population,Persons,Total,From 15 to 64 years,2018,229.005,Normal value,False
+Historical population data,IRL,Ireland,Population,Persons,Total,From 15 to 64 years,2018,3194.039,Normal value,False
+Historical population data,ESP,Spain,Population,Persons,Total,From 15 to 64 years,2018,30840.972,Normal value,False
+Historical population data,GBR,United Kingdom,Population,Persons,Total,From 15 to 64 years,2018,42544.168,Normal value,False
+Historical population data,AUS,Australia,Population,Persons,Total,From 15 to 64 years,2017,16168.506,Normal value,False
+Historical population data,HUN,Hungary,Population,Persons,Total,From 15 to 64 years,2017,6497.154,Normal value,False
+Historical population data,ISL,Iceland,Population,Persons,Total,From 15 to 64 years,2017,222.675,Normal value,False
+Historical population data,IRL,Ireland,Population,Persons,Total,From 15 to 64 years,2017,3148.131,Normal value,False
+Historical population data,ESP,Spain,Population,Persons,Total,From 15 to 64 years,2017,30727.303,Normal value,False
+Historical population data,GBR,United Kingdom,Population,Persons,Total,From 15 to 64 years,2017,42408.154,Normal value,False
+Historical population data,AUS,Australia,Population,Persons,Total,From 15 to 64 years,2019,16570.435,Normal value,False
+Historical population data,HUN,Hungary,Population,Persons,Total,From 15 to 64 years,2019,6400.242,Normal value,False
+Historical population data,ISL,Iceland,Population,Persons,Total,From 15 to 64 years,2019,232.882,Normal value,False
+Historical population data,IRL,Ireland,Population,Persons,Total,From 15 to 64 years,2019,3241.56,Normal value,False
+Historical population data,NZL,New Zealand,Population,Persons,Total,From 15 to 64 years,2019,3256.59,Normal value,False
+Historical population data,ESP,Spain,Population,Persons,Total,From 15 to 64 years,2019,31111.726,Normal value,False
+Historical population data,GBR,United Kingdom,Population,Persons,Total,From 15 to 64 years,2019,42701.87,Normal value,False
+Historical population data,CRI,Costa Rica,Population,Persons,Total,From 15 to 64 years,2016,3349.757,Normal value,False
+Historical population data,CRI,Costa Rica,Population,Persons,Total,From 15 to 64 years,2017,3387.204,Normal value,False
+Historical population data,CRI,Costa Rica,Population,Persons,Total,From 15 to 64 years,2018,3423.77,Normal value,False
+Historical population data,CRI,Costa Rica,Population,Persons,Total,From 15 to 64 years,2019,3456.185,Normal value,False
+Historical population data,CRI,Costa Rica,Population,Persons,Total,From 15 to 64 years,2025,3611.55,Normal value,False
+Historical population data,AUS,Australia,Population,Persons,Total,From 15 to 64 years,2020,16704.135,Normal value,False
+Historical population data,AUT,Austria,Population,Persons,Total,From 15 to 64 years,2020,5921.053,Normal value,False
+Historical population data,CAN,Canada,Population,Persons,Total,From 15 to 64 years,2020,25121.768,Normal value,False
+Historical population data,CRI,Costa Rica,Population,Persons,Total,From 15 to 64 years,2020,3483.004,Normal value,False
+Historical population data,FRA,France,Population,Persons,Total,From 15 to 64 years,2020,41717.79,Normal value,False
+Historical population data,HUN,Hungary,Population,Persons,Total,From 15 to 64 years,2020,6337.03,Normal value,False
+Historical population data,ISL,Iceland,Population,Persons,Total,From 15 to 64 years,2020,234.972,Normal value,False
+Historical population data,IRL,Ireland,Population,Persons,Total,From 15 to 64 years,2020,3290.109,Normal value,False
+Historical population data,ISR,Israel,Population,Persons,Total,From 15 to 64 years,2020,5518.394,Normal value,False
+Historical population data,MEX,Mexico,Population,Persons,Total,From 15 to 64 years,2020,85272.128,Normal value,False
+Historical population data,NZL,New Zealand,Population,Persons,Total,From 15 to 64 years,2020,3319.12,Normal value,False
+Historical population data,POL,Poland,Population,Persons,Total,From 15 to 64 years,2020,25240.808,Normal value,False
+Historical population data,ESP,Spain,Population,Persons,Total,From 15 to 64 years,2020,31327.221,Normal value,False
+Historical population data,GBR,United Kingdom,Population,Persons,Total,From 15 to 64 years,2020,42757.102,Normal value,False
+Historical population data,USA,United States,Population,Persons,Total,From 15 to 64 years,2020,215743.025,Normal value,False
+Historical population data,AUS,Australia,Population,Persons,Total,From 15 to 64 years,2021,16622.311,Normal value,False
+Historical population data,AUT,Austria,Population,Persons,Total,From 15 to 64 years,2021,5925.136,Normal value,False
+Historical population data,CAN,Canada,Population,Persons,Total,From 15 to 64 years,2021,25104.41,Normal value,False
+Historical population data,CRI,Costa Rica,Population,Persons,Total,From 15 to 64 years,2021,3509.468,Normal value,False
+Historical population data,FRA,France,Population,Persons,Total,From 15 to 64 years,2021,41876.07,Normal value,False
+Historical population data,HUN,Hungary,Population,Persons,Total,From 15 to 64 years,2021,6278.311,Normal value,False
+Historical population data,ISL,Iceland,Population,Persons,Total,From 15 to 64 years,2021,237.7,Normal value,False
+Historical population data,IRL,Ireland,Population,Persons,Total,From 15 to 64 years,2021,3319.617,Normal value,False
+Historical population data,ISR,Israel,Population,Persons,Total,From 15 to 64 years,2021,5605.004,Normal value,False
+Historical population data,KOR,Korea,Population,Persons,Total,From 15 to 64 years,2021,37051.333,Normal value,False
+Historical population data,MEX,Mexico,Population,Persons,Total,From 15 to 64 years,2021,86098.57,Normal value,False
+Historical population data,NZL,New Zealand,Population,Persons,Total,From 15 to 64 years,2021,3307.98,Normal value,False
+Historical population data,POL,Poland,Population,Persons,Total,From 15 to 64 years,2021,24959.001,Normal value,False
+Historical population data,ESP,Spain,Population,Persons,Total,From 15 to 64 years,2021,31320.534,Normal value,False
+Historical population data,GBR,United Kingdom,Population,Persons,Total,From 15 to 64 years,2021,42904.27,Normal value,False
+Historical population data,USA,United States,Population,Persons,Total,From 15 to 64 years,2021,215541.683,Normal value,False
+Historical population data,AUS,Australia,Population,Persons,Total,From 15 to 64 years,2022,16817.097,Normal value,False
+Historical population data,AUT,Austria,Population,Persons,Total,From 15 to 64 years,2022,5980.407,Normal value,False
+Historical population data,CAN,Canada,Population,Persons,Total,From 15 to 64 years,2022,25513.292,Normal value,False
+Historical population data,CRI,Costa Rica,Population,Persons,Total,From 15 to 64 years,2022,3536.974,Normal value,False
+Historical population data,FRA,France,Population,Persons,Total,From 15 to 64 years,2022,42028.294,Normal value,False
+Historical population data,GRC,Greece,Population,Persons,Total,From 15 to 64 years,2022,6644.856,Normal value,False
+Historical population data,HUN,Hungary,Population,Persons,Total,From 15 to 64 years,2022,6244.63,Normal value,False
+Historical population data,ISL,Iceland,Population,Persons,Total,From 15 to 64 years,2022,243.515,Normal value,False
+Historical population data,IRL,Ireland,Population,Persons,Total,From 15 to 64 years,2022,3388.375,Normal value,False
+Historical population data,ISR,Israel,Population,Persons,Total,From 15 to 64 years,2022,5714.973,Normal value,False
+Historical population data,ITA,Italy,Population,Persons,Total,From 15 to 64 years,2022,37480.37,Normal value,False
+Historical population data,KOR,Korea,Population,Persons,Total,From 15 to 64 years,2022,36743.472,Normal value,False
+Historical population data,LTU,Lithuania,Population,Persons,Total,From 15 to 64 years,2022,1843.235,Normal value,False
+Historical population data,MEX,Mexico,Population,Persons,Total,From 15 to 64 years,2022,87023.345,Normal value,False
+Historical population data,NLD,Netherlands,Population,Persons,Total,From 15 to 64 years,2022,11417.753,Normal value,False
+Historical population data,NZL,New Zealand,Population,Persons,Total,From 15 to 64 years,2022,3291.34,Normal value,False
+Historical population data,PRT,Portugal,Population,Persons,Total,From 15 to 64 years,2022,6622.948,Normal value,False
+Historical population data,ESP,Spain,Population,Persons,Total,From 15 to 64 years,2022,31627.745,Normal value,False
+Historical population data,CHE,Switzerland,Population,Persons,Total,From 15 to 64 years,2022,5777.412,Normal value,False
+Historical population data,GBR,United Kingdom,Population,Persons,Total,From 15 to 64 years,2022,43259.738,Normal value,False
+Historical population data,USA,United States,Population,Persons,Total,From 15 to 64 years,2022,215730.87,Normal value,False
+Historical population data,AUS,Australia,Population,Persons,Total,From 15 to 64 years,2024,17710.165,Normal value,False
+Historical population data,AUT,Austria,Population,Persons,Total,From 15 to 64 years,2024,6017.297,Normal value,False
+Historical population data,BEL,Belgium,Population,Persons,Total,From 15 to 64 years,2024,7505.857,Normal value,False
+Historical population data,CAN,Canada,Population,Persons,Total,From 15 to 64 years,2024,27203.969,Normal value,False
+Historical population data,CHL,Chile,Population,Persons,Total,From 15 to 64 years,2024,13619.165,Normal value,False
+Historical population data,COL,Colombia,Population,Persons,Total,From 15 to 64 years,2024,35703.297,Normal value,False
+Historical population data,CRI,Costa Rica,Population,Persons,Total,From 15 to 64 years,2024,3589.976,Normal value,False
+Historical population data,CZE,Czechia,Population,Persons,Total,From 15 to 64 years,2024,6936.076,Normal value,False
+Historical population data,DNK,Denmark,Population,Persons,Total,From 15 to 64 years,2024,3796.169,Normal value,False
+Historical population data,EST,Estonia,Population,Persons,Total,From 15 to 64 years,2024,871.361,Normal value,False
+Historical population data,FIN,Finland,Population,Persons,Total,From 15 to 64 years,2024,3474.56,Normal value,False
+Historical population data,FRA,France,Population,Persons,Total,From 15 to 64 years,2024,42198.234,Normal value,False
+Historical population data,GRC,Greece,Population,Persons,Total,From 15 to 64 years,2024,6604.392,Normal value,False
+Historical population data,HUN,Hungary,Population,Persons,Total,From 15 to 64 years,2024,6207.418,Normal value,False
+Historical population data,ISL,Iceland,Population,Persons,Total,From 15 to 64 years,2024,255.954,Normal value,False
+Historical population data,IRL,Ireland,Population,Persons,Total,From 15 to 64 years,2024,3536.767,Normal value,False
+Historical population data,ISR,Israel,Population,Persons,Total,From 15 to 64 years,2024,5744.668,Normal value,False
+Historical population data,ITA,Italy,Population,Persons,Total,From 15 to 64 years,2024,37385.032,Normal value,False
+Historical population data,JPN,Japan,Population,Persons,Total,From 15 to 64 years,2024,73728.392,Normal value,False
+Historical population data,KOR,Korea,Population,Persons,Total,From 15 to 64 years,2024,36327.585,Normal value,False
+Historical population data,LVA,Latvia,Population,Persons,Total,From 15 to 64 years,2024,1176.714,Normal value,False
+Historical population data,LTU,Lithuania,Population,Persons,Total,From 15 to 64 years,2024,1879.464,Normal value,False
+Historical population data,LUX,Luxembourg,Population,Persons,Total,From 15 to 64 years,2024,468.242,Normal value,False
+Historical population data,MEX,Mexico,Population,Persons,Total,From 15 to 64 years,2024,89017.715,Normal value,False
+Historical population data,NLD,Netherlands,Population,Persons,Total,From 15 to 64 years,2024,11571.547,Normal value,False
+Historical population data,NZL,New Zealand,Population,Persons,Total,From 15 to 64 years,2024,3439.3,Normal value,False
+Historical population data,NOR,Norway,Population,Persons,Total,From 15 to 64 years,2024,3617.157,Normal value,False
+Historical population data,POL,Poland,Population,Persons,Total,From 15 to 64 years,2024,24344.812,Normal value,False
+Historical population data,PRT,Portugal,Population,Persons,Total,From 15 to 64 years,2024,6744.347,Normal value,False
+Historical population data,SVK,Slovak Republic,Population,Persons,Total,From 15 to 64 years,2024,3553.027,Normal value,False
+Historical population data,SVN,Slovenia,Population,Persons,Total,From 15 to 64 years,2024,1348.135,Normal value,False
+Historical population data,ESP,Spain,Population,Persons,Total,From 15 to 64 years,2024,32397.281,Normal value,False
+Historical population data,SWE,Sweden,Population,Persons,Total,From 15 to 64 years,2024,6588.063,Normal value,False
+Historical population data,CHE,Switzerland,Population,Persons,Total,From 15 to 64 years,2024,5913.235,Normal value,False
+Historical population data,TUR,Türkiye,Population,Persons,Total,From 15 to 64 years,2024,58482.01,Normal value,False
+Historical population data,GBR,United Kingdom,Population,Persons,Total,From 15 to 64 years,2024,44707.312,Normal value,False
+Historical population data,USA,United States,Population,Persons,Total,From 15 to 64 years,2024,216521.68,Normal value,False
+Historical population data,AUS,Australia,Population,Persons,Total,From 15 to 64 years,2023,17312.522,Normal value,False
+Historical population data,AUT,Austria,Population,Persons,Total,From 15 to 64 years,2023,6011.516,Normal value,False
+Historical population data,BEL,Belgium,Population,Persons,Total,From 15 to 64 years,2023,7472.907,Normal value,False
+Historical population data,CAN,Canada,Population,Persons,Total,From 15 to 64 years,2023,26338.659,Normal value,False
+Historical population data,CHL,Chile,Population,Persons,Total,From 15 to 64 years,2023,13573.894,Normal value,False
+Historical population data,COL,Colombia,Population,Persons,Total,From 15 to 64 years,2023,35366.621,Normal value,False
+Historical population data,CRI,Costa Rica,Population,Persons,Total,From 15 to 64 years,2023,3566.61,Normal value,False
+Historical population data,CZE,Czechia,Population,Persons,Total,From 15 to 64 years,2023,6912.538,Normal value,False
+Historical population data,DNK,Denmark,Population,Persons,Total,From 15 to 64 years,2023,3777.138,Normal value,False
+Historical population data,EST,Estonia,Population,Persons,Total,From 15 to 64 years,2023,869.205,Normal value,False
+Historical population data,FIN,Finland,Population,Persons,Total,From 15 to 64 years,2023,3445.684,Normal value,False
+Historical population data,FRA,France,Population,Persons,Total,From 15 to 64 years,2023,42118.042,Normal value,False
+Historical population data,GRC,Greece,Population,Persons,Total,From 15 to 64 years,2023,6623.592,Normal value,False
+Historical population data,HUN,Hungary,Population,Persons,Total,From 15 to 64 years,2023,6225.583,Normal value,False
+Historical population data,ISL,Iceland,Population,Persons,Total,From 15 to 64 years,2023,250.652,Normal value,False
+Historical population data,IRL,Ireland,Population,Persons,Total,From 15 to 64 years,2023,3463.677,Normal value,False
+Historical population data,ISR,Israel,Population,Persons,Total,From 15 to 64 years,2023,5728.9,Normal value,False
+Historical population data,ITA,Italy,Population,Persons,Total,From 15 to 64 years,2023,37450.017,Normal value,False
+Historical population data,JPN,Japan,Population,Persons,Total,From 15 to 64 years,2023,73952.058,Normal value,False
+Historical population data,KOR,Korea,Population,Persons,Total,From 15 to 64 years,2023,36571.568,Normal value,False
+Historical population data,LVA,Latvia,Population,Persons,Total,From 15 to 64 years,2023,1190.301,Normal value,False
+Historical population data,LTU,Lithuania,Population,Persons,Total,From 15 to 64 years,2023,1869.252,Normal value,False
+Historical population data,LUX,Luxembourg,Population,Persons,Total,From 15 to 64 years,2023,461.525,Normal value,False
+Historical population data,MEX,Mexico,Population,Persons,Total,From 15 to 64 years,2023,88038.778,Normal value,False
+Historical population data,NLD,Netherlands,Population,Persons,Total,From 15 to 64 years,2023,11517.213,Normal value,False
+Historical population data,NZL,New Zealand,Population,Persons,Total,From 15 to 64 years,2023,3382.13,Normal value,False
+Historical population data,NOR,Norway,Population,Persons,Total,From 15 to 64 years,2023,3582.18,Normal value,False
+Historical population data,POL,Poland,Population,Persons,Total,From 15 to 64 years,2023,24505.817,Normal value,False
+Historical population data,PRT,Portugal,Population,Persons,Total,From 15 to 64 years,2023,6677.814,Normal value,False
+Historical population data,SVK,Slovak Republic,Population,Persons,Total,From 15 to 64 years,2023,3574.066,Normal value,False
+Historical population data,SVN,Slovenia,Population,Persons,Total,From 15 to 64 years,2023,1347.055,Normal value,False
+Historical population data,ESP,Spain,Population,Persons,Total,From 15 to 64 years,2023,32033.167,Normal value,False
+Historical population data,SWE,Sweden,Population,Persons,Total,From 15 to 64 years,2023,6559.351,Normal value,False
+Historical population data,CHE,Switzerland,Population,Persons,Total,From 15 to 64 years,2023,5842.785,Normal value,False
+Historical population data,TUR,Türkiye,Population,Persons,Total,From 15 to 64 years,2023,58215.356,Normal value,False
+Historical population data,GBR,United Kingdom,Population,Persons,Total,From 15 to 64 years,2023,43259.738,Normal value,False
+Historical population data,USA,United States,Population,Persons,Total,From 15 to 64 years,2023,216168.053,Normal value,False
+Historical population data,DEU,Germany,Population,Persons,Total,From 15 to 64 years,2022,53101.51,Normal value,False
+Historical population data,DEU,Germany,Population,Persons,Total,From 15 to 64 years,2024,53030.936,Normal value,False
+Historical population data,DEU,Germany,Population,Persons,Total,From 15 to 64 years,2020,53545.182,Normal value,False
+Historical population data,DEU,Germany,Population,Persons,Total,From 15 to 64 years,2021,53299.642,Normal value,False
+Historical population data,DEU,Germany,Population,Persons,Total,From 15 to 64 years,2023,53059.516,Normal value,False
