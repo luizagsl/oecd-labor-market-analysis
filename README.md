@@ -30,23 +30,6 @@ Built in Tableau Public · 7 dashboards · 12+ charts
 
 ---
 
-## Repository Structure
-oecd-labor-market-analysis/
-│
-├── README.md
-├── .gitignore
-│
-├── data/
-│   ├── raw/                  # original OECD downloads (not versioned)
-│   │   └── .gitkeep
-│   └── processed/            # preprocessed CSVs (output of notebook)
-│
-└── notebooks/
-    └── project_2_data_prep_v2.ipynb
-
-
----
-
 ## Data Sources
 
 All datasets downloaded directly from the [OECD Data Explorer](https://data-explorer.oecd.org):
